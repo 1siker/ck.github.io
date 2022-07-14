@@ -1,3 +1,13 @@
+<script>
+    window.ht_config = {
+        appId : 'a5f47eef-5a1a-49d8-9769-2c67524d79d7', 
+        host : 'https://hey-there.io',
+        resource : 'https://hey-there.io/hey-there-resource',
+    };
+</script>
+<script defer="defer" src="https://hey-there.io/hey-there-resource/ht-processor.js"></script>
+
+
 # 헤이데어 사용에 대한 시연을 진행하겠습니다.
 
 보다 자세한 내용은 [헤이데어 홈페이지](https://www.hey-there.io/) 에서 확인하실 수 있습니다.
