@@ -8,7 +8,7 @@
 <script defer="defer" src="https://hey-there.io/hey-there-resource/ht-processor.js"></script>
 
 
-# 헤이데어 사용에 대한 시연을 진행하겠습니다.
+## 헤이데어 사용에 대한 시연을 진행하겠습니다.
 
 보다 자세한 내용은 [헤이데어 홈페이지](https://www.hey-there.io/) 에서 확인하실 수 있습니다.
 시연 중 궁금하신 점이 있으시면 언제든지 질문해 주시길 바랍니다.
@@ -17,6 +17,7 @@
 
 ##### 무려.. 무료입니다 무료!! Free!!
 올 해 까지만요..
+
 
 
 ### 상담 운영 시간
