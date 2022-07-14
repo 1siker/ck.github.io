@@ -1,4 +1,4 @@
-# ck.github.io
+# 헤이데어 시연 테스트 페이지입니다.
 
 <script>
     window.ht_config = {
